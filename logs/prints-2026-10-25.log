@@ -1,0 +1,5 @@
+19:11:25.935 [main] DEBUG stepDefinitions.validateSortItems - selected A to Z from sort by option
+19:11:32.449 [main] DEBUG stepDefinitions.validateSortItems - sort by feature validated successfully for A to Z
+19:11:40.884 [main] DEBUG stepDefinitions.validateWebsiteLaunch - Website https://demowebshop.tricentis.com/ launched
+19:11:45.038 [main] DEBUG stepDefinitions.validateWebsiteLaunch - Title of the page: Demo Web Shop
+19:11:45.040 [main] DEBUG stepDefinitions.validateWebsiteLaunch - Website title is validated successfully!

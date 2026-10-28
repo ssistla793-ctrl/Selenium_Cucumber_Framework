@@ -1,0 +1,22 @@
+# Maven build output
+target/
+
+# Test reports and generated results
+allure-results/
+allure-report/
+test-output/
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.idea/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Operating system files
+.DS_Store
+Thumbs.db

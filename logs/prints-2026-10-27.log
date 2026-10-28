@@ -1,0 +1,5 @@
+21:37:55.613 [main] DEBUG stepDefinitions.validateSortItems - category 'Books' are selected from top-menu selected
+21:37:55.670 [main] DEBUG stepDefinitions.validateSortItems - category title validated
+21:38:12.700 [main] DEBUG stepDefinitions.validateSortItems - selected Z to A from sort by option
+21:38:13.058 [main] DEBUG stepDefinitions.validateSortItems - sort by feature validated successfully for Z to A
+21:38:57.275 [main] DEBUG stepDefinitions.validateWebsiteLaunch - Website https://demowebshop.tricentis.com/ launched

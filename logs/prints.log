@@ -1,0 +1,5 @@
+23:20:26.489 [TestNG-PoolService-1] DEBUG stepDefinitions.validateSearch - Relevant products are displayed
+23:20:37.065 [TestNG-PoolService-3] DEBUG stepDefinitions.validateSortItems - selected Z to A from sort by option
+23:20:37.583 [TestNG-PoolService-2] DEBUG stepDefinitions.validateSortItems - selected A to Z from sort by option
+23:20:37.800 [TestNG-PoolService-3] DEBUG stepDefinitions.validateSortItems - sort by feature validated successfully for Z to A
+23:20:38.238 [TestNG-PoolService-2] DEBUG stepDefinitions.validateSortItems - sort by feature validated successfully for A to Z

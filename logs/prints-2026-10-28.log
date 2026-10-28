@@ -1,0 +1,5 @@
+23:20:23.403 [TestNG-PoolService-1] DEBUG stepDefinitions.validateSearch - Submit button clicked
+23:20:25.130 [TestNG-PoolService-4] DEBUG stepDefinitions.validateWebsiteLaunch - Website https://demowebshop.tricentis.com/ launched
+23:20:25.294 [TestNG-PoolService-4] DEBUG stepDefinitions.validateWebsiteLaunch - Title of the page: Demo Web Shop
+23:20:25.301 [TestNG-PoolService-4] DEBUG stepDefinitions.validateWebsiteLaunch - Website title is validated successfully!
+23:20:26.487 [TestNG-PoolService-1] DEBUG stepDefinitions.validateSearch - All products are listed and captured
